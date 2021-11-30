@@ -4,7 +4,7 @@
 
 ## Sobre o projeto
 
-Github Explorer é uma aplicação simples que foi desenvolvida durante o ignite da [Rockeseat](https://rockeseat.com.br). Nesse exemplo usamos os dados dos repositórios da **@Rockeseat** e listamos os dados em tela.
+Github Explorer é uma aplicação simples que foi desenvolvida durante o ignite da [Rockeseat](https://www.rocketseat.com.br/). Nesse exemplo usamos os dados dos repositórios da **@Rockeseat** e listamos os dados em tela.
 
 ## Tecnologias
 
