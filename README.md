@@ -12,3 +12,11 @@ Github Explorer é uma aplicação simples que foi desenvolvida durante o ignite
 - Typescript
 - Babel
 - Webpack
+
+## Execute a aplicação
+
+- Clone o repo `git clone https://github.com/ronaldprofile/github-explorer-ignite.git`
+- Instale as depedências `yarn`
+- Execute o servidor `yarn dev`
+
+A aplicação está disponível em [localhost:8080](http://localhost:8080).
