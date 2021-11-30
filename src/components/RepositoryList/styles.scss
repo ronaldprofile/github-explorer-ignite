@@ -1,0 +1,20 @@
+section.repositoryList {
+  margin: 2.5rem;
+
+  h1 {
+    margin-bottom: 1rem;
+  }
+
+  ul {
+    list-style: none;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    column-gap: 1rem;
+
+    li {
+      & + li {
+        margin-top: 1.25rem;
+      }
+    }
+  }
+}

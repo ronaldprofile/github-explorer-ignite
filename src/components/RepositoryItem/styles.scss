@@ -1,0 +1,32 @@
+.repo {
+  max-width: 500px;
+  padding: 2rem;
+  background: #ffffff;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  transition: transform 0.2s;
+  &:hover {
+    transform: translateY(-3px);
+  }
+
+  .repoName {
+    display: inline-block;
+    margin-bottom: 1rem;
+    font-size: 1.25rem;
+  }
+
+  .repoDesc {
+    color: #444;
+  }
+
+  .accessRepo {
+    margin-top: 0.75rem;
+    display: inline-block;
+    text-decoration: none;
+    color: #8257e6;
+    transition: filter 0.2s;
+
+    &:hover {
+      filter: brightness(1.1);
+    }
+  }
+}
